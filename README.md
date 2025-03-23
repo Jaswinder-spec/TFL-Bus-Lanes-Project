@@ -6,7 +6,17 @@ This notebook (`tflbuslanes.ipynb`) analyzes Transport for London (TfL) bus lane
 - Vehicles allowed (bus, cycle, motorcycle, taxi)
 - Lane lengths and directions
 - Borough-wise distribution
-- 
+# Data Cleaning (Excel)
+
+The initial cleaning process involved:
+
+Removing duplicates and irrelevant columns
+
+Standardizing date and time formats
+
+Correcting data inconsistencies (e.g., road names, boroughs)
+
+Ensuring consistent units for lane lengths
   ##Analysis Insights
 Top 10 Boroughs with the Most Bus Lanes 🚏
   
