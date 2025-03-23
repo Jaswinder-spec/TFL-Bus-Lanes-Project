@@ -21,7 +21,7 @@ Ensuring consistent units for lane lengths
 Top 10 Boroughs with the Most Bus Lanes 🚏
   
 The borough with the highest number of bus lanes is Transport for London, followed by major boroughs like Westminster, Camden, and Lambeth.
-https://github.com/Jaswinder-spec/TFL-Bus-Lanes-Project/blob/main/visual_1.png
+
 
 This suggests high bus lane density in central London areas.
 
@@ -58,6 +58,8 @@ The notebook generates various visualizations, including:
 - Distribution of bus lane lengths
 - Bus lane operations by borough
 - Vehicle types allowed in different lanes
+  Visuals
+  ![Salary Dashboard](https://raw.githubusercontent.com/Jaswinder-spec/salary_dataset/refs/heads/main/Screenshot%202025-03-20%20174756.png)
 
 ## License
 This project uses data from Transport for London and is intended for educational and analytical purposes.
