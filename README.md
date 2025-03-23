@@ -59,8 +59,13 @@ The notebook generates various visualizations, including:
 - Bus lane operations by borough
 - Vehicle types allowed in different lanes
   Visuals
-  ![Salary Dashboard](https://raw.githubusercontent.com/Jaswinder-spec/salary_dataset/refs/heads/main/Screenshot%202025-03-20%20174756.png)
-   !(https://github.com/Jaswinder-spec/TFL-Bus-Lanes-Project/blob/main/visual_1.png)
+  ### Visual Preview
+![Visual 1](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_1.png)
+![Visual 2](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_2.png)
+![Visual 3](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_3.png)
+![Visual 4](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_4.png)
+![Visual 5](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_5.png)
+![Visual 6](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_6.png)
 
 ## License
 This project uses data from Transport for London and is intended for educational and analytical purposes.
