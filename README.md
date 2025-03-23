@@ -6,6 +6,7 @@ This notebook (`tflbuslanes.ipynb`) analyzes Transport for London (TfL) bus lane
 - Vehicles allowed (bus, cycle, motorcycle, taxi)
 - Lane lengths and directions
 - Borough-wise distribution
+  # Dataset
 # Data Cleaning (Excel)
 
 The initial cleaning process involved:
@@ -17,13 +18,7 @@ Standardizing date and time formats
 Correcting data inconsistencies (e.g., road names, boroughs)
 
 Ensuring consistent units for lane lengths
-  ##Analysis Insights
-Top 10 Boroughs with the Most Bus Lanes 🚏
-  
-The borough with the highest number of bus lanes is Transport for London, followed by major boroughs like Westminster, Camden, and Lambeth.
-
-
-This suggests high bus lane density in central London areas.
+ 
 
 Distribution of Bus Lane Lengths 📏
 
@@ -61,11 +56,20 @@ The notebook generates various visualizations, including:
   Visuals
   ### Visual Preview
 ![Visual 1](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_1.png)
+ ##Analysis Insights
+Top 10 Boroughs with the Most Bus Lanes 🚏
+The borough with the highest number of bus lanes is Transport for London, followed by major boroughs like Westminster, Camden, and Lambeth.
+This suggests high bus lane density in central London areas.
 ![Visual 2](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_2.png)
+This show distribution of bus lane lengths.
 ![Visual 3](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_3.png)
+Most common operational hours.
 ![Visual 4](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_4.png)
+Top 10 road with high bus lanes.
 ![Visual 5](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_5.png)
+Vehicles allowed in bus lanes.
 ![Visual 6](https://raw.githubusercontent.com/Jaswinder-spec/TFL-Bus-Lanes-Project/main/visual_6.png)
+Distribution of bus lanes by borough with lane types.
 
 ## License
 This project uses data from Transport for London and is intended for educational and analytical purposes.
