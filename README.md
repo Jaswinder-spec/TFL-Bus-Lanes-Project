@@ -60,7 +60,7 @@ The notebook generates various visualizations, including:
 - Vehicle types allowed in different lanes
   Visuals
   ![Salary Dashboard](https://raw.githubusercontent.com/Jaswinder-spec/salary_dataset/refs/heads/main/Screenshot%202025-03-20%20174756.png)
-   (https://github.com/Jaswinder-spec/TFL-Bus-Lanes-Project/blob/main/visual_1.png)
+   !(https://github.com/Jaswinder-spec/TFL-Bus-Lanes-Project/blob/main/visual_1.png)
 
 ## License
 This project uses data from Transport for London and is intended for educational and analytical purposes.
