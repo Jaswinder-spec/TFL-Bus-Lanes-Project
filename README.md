@@ -6,6 +6,25 @@ This notebook (`tflbuslanes.ipynb`) analyzes Transport for London (TfL) bus lane
 - Vehicles allowed (bus, cycle, motorcycle, taxi)
 - Lane lengths and directions
 - Borough-wise distribution
+- 
+  ##Analysis Insights
+Top 10 Boroughs with the Most Bus Lanes 🚏
+  
+The borough with the highest number of bus lanes is Transport for London, followed by major boroughs like Westminster, Camden, and Lambeth.
+
+This suggests high bus lane density in central London areas.
+
+Distribution of Bus Lane Lengths 📏
+
+Most bus lanes are relatively short, with many under 500 meters.
+
+A few lanes extend beyond 1,000 meters, but they are less common.
+
+Most Common Operational Hours ⏳
+
+Many bus lanes operate 24/7 (00:00-23:59).
+
+Some have restricted hours, primarily during peak times.
 
 ## Dependencies
 To run this notebook, you need the following Python libraries:
